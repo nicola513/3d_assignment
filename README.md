@@ -1,1 +1,2 @@
-# 3d_assignment
+# COMPS384F 3D Assignment
+# Air-hockey
